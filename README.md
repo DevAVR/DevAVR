@@ -43,7 +43,7 @@
 
 <img align="left" alt="PROFESSOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adithyan1133-ctrl&show_icons=true&hide_border=true" />
 
-[website]: https://telegram.dog/TheUnusualPsychopath
+[website]: https://visi.tk/professor
 [twitter]: https://telegram.dog/TheUnusualPsychopath
 [youtube]: https://telegram.dog/TheUnusualPsychopath
 [instagram]: https://telegram.dog/TheUnusualPsychopath
