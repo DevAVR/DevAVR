@@ -13,6 +13,7 @@
 [<img align="left" alt="Website" width="30px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
 [<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="E Mail" width="30px" src="https://img.icons8.com/dusk/64/000000/email.png" />][email]
+[<img align="left" alt="Support" width="30px" src="https://img.icons8.com/cotton/64/000000/laptop-coding.png" />][support]
 
 <br />
 
@@ -27,3 +28,4 @@
 [hmm]: https://telegram.dog/TroJanzHEX
 [telegram]: https://telegram.dog/TheUnusualPsychopath
 [email]: vradithyan8@gmail.com
+[support]: https://telegram.dog/TroJanzSupport
