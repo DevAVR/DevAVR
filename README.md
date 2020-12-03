@@ -1,5 +1,5 @@
 [![hola](https://telegra.ph/file/bb83eea8bf8232c7e9746.png)](http://TroJanzHEX.me)
-[<img align="centre" alt="Website" width="500px" src="https://telegra.ph/file/bb83eea8bf8232c7e9746.png" />][website]
+[<img align="centre" alt="Website" width="400px" src="https://telegra.ph/file/bb83eea8bf8232c7e9746.png" />][website]
 ### Hi there, I'm Adithyan - aka [PROFESSOR][website] 👋
 [![telegram badge](https://img.shields.io/badge/🄿🅁🄾🄵🄴🅂🅂🄾🅁-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/TheUnusualPsychopath)
 [![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=for-the-badge)](https://trojanzhex.me)
