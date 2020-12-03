@@ -10,8 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
-[<img align="left" alt="codeSTACKr | Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][linkedin]
+[<img align="left" alt="Website" width="30px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
+[<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="E Mail" width="30px" src="https://img.icons8.com/dusk/64/000000/email.png" />][email]
 
 <br />
 
@@ -24,11 +25,5 @@
 
 [website]: https://visi.tk/professor
 [hmm]: https://telegram.dog/TroJanzHEX
-[twitter]: https://telegram.dog/TheUnusualPsychopath
-[youtube]: https://telegram.dog/TheUnusualPsychopath
-[instagram]: https://telegram.dog/TheUnusualPsychopath
-[linkedin]: https://telegram.dog/TheUnusualPsychopath
-[webdevplaylist]: https://telegram.dog/TheUnusualPsychopath
-[jsplaylist]: https://telegram.dog/TheUnusualPsychopath
-[cssplaylist]: https://telegram.dog/TheUnusualPsychopath
-[reactplaylist]: https://telegram.dog/TheUnusualPsychopath
+[telegram]: https://telegram.dog/TheUnusualPsychopath
+[email]: vradithyan8@gmail.com
