@@ -6,7 +6,6 @@
 - I’m a XI Computer Science Student.
 - I’m a Amateur Programmer.
 - I'm now Focusing on Python.
-- 
 
 ### Connect with me:
 
@@ -17,7 +16,6 @@
 
 <br />
 
-<br />
 <br />
 
 ---
