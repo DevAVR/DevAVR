@@ -1,6 +1,6 @@
 [![hola](https://telegra.ph/file/bb83eea8bf8232c7e9746.png)](http://TroJanzHEX.me)
 
-### Hola, I am [🄿🅁🄾🄵🄴🅂🅂🄾🅁][website] 👋
+### Hola, I am [🄿🅁🄾🄵🄴🅂🅂🄾🅁][website]👋
 [![telegram badge](https://img.shields.io/badge/🄿🅁🄾🄵🄴🅂🅂🄾🅁-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/TheUnusualPsychopath)
 [![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=for-the-badge)](https://trojanzhex.me)
 
