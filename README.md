@@ -1,6 +1,6 @@
 ### Hi there, I'm Adithyan - aka [PROFESSOR][website] 👋
-[![telegram badge](https://img.shields.io/badge/🄿🅁🄾🄵🄴🅂🅂🄾🅁-30302f?style=flat&logo=telegram)](https://telegram.dog/TheUnusualPsychopath)
-[![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=flat)](https://trojanzhex.me)
+[![telegram badge](https://img.shields.io/badge/🄿🅁🄾🄵🄴🅂🅂🄾🅁-30302f?style=for-the-badge&logo=globe)](https://telegram.dog/TheUnusualPsychopath)
+[![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=for-the-badge)](https://trojanzhex.me)
 
 ### Dev [@TroJanzHEX][hmm]
 - I’m a XI Computer Science Student.
