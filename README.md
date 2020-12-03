@@ -3,10 +3,11 @@
 [![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=for-the-badge)](https://trojanzhex.me)
 
 ### Dev [@TroJanzHEX][hmm]
+```
 - I’m a XI Computer Science Student.
 - I’m a Amateur Programmer.
 - I'm now Focusing on Python.
-
+```
 ### Connect with me:
 
 [<img align="left" alt="Website" width="30px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
