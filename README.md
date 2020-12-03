@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="PROFESSOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adithyan1133-ctrl&show_icons=true&hide_border=true" />
+<img align="left" alt="PROFESSOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Adithyan1133-ctrl&hide=prs&count_private=true&show_icons=true&theme=algolia" />
 
 [website]: https://visi.tk/professor
 [hmm]: https://telegram.dog/TroJanzHEX
