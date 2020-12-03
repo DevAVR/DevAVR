@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="65px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="50px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][linkedin]
 
 <br />
