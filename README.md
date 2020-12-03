@@ -27,5 +27,5 @@
 [website]: https://visi.tk/professor
 [hmm]: https://telegram.dog/TroJanzHEX
 [telegram]: https://telegram.dog/TheUnusualPsychopath
-[email]: vradithyan8@gmail.com
+[email]: mailto:vradithyan8@gmail.com
 [support]: https://telegram.dog/TroJanzSupport
