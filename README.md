@@ -8,7 +8,7 @@
 ```
 I’m a XI Computer Science Student.
 I’m an Amateur Programmer.
-I'm now Focusing on Python and Of course Studies.
+I'm now Focusing on Python and Studies.
 ```
 ### Connect with me:
 
