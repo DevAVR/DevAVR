@@ -4,7 +4,7 @@
 [![telegram badge](https://img.shields.io/badge/🄿🅁🄾🄵🄴🅂🅂🄾🅁-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/TheUnusualPsychopath)
 [![telegram badge](https://img.shields.io/badge/TroJanzHEX-30302f?style=for-the-badge)](https://trojanzhex.me)
 
-### Dev [@TroJanzHEX][hmm]
+### Dev [@TroJanzHEX][github.com/TroJanzHEX]
 ```
 I’m a XI Computer Science Student.
 I’m an Amateur Programmer.
