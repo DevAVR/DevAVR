@@ -7,8 +7,8 @@
 ### Dev [@TroJanzHEX][hmm]
 ```
 I’m a XI Computer Science Student.
-I’m a Amateur Programmer.
-I'm now Focusing on Python.
+I’m an Amateur Programmer.
+I'm now Focusing on Python and Of course Studies.
 ```
 ### Connect with me:
 
